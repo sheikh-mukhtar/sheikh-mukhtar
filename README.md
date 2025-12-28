@@ -1,5 +1,11 @@
 # 💫 About Me:
-DevOps Engineer focused on building reliable, automated, and scalable cloud infrastructure.<br>Hands-on experience with AWS, Kubernetes, Terraform, and CI/CD pipelines.<br>I care more about systems working at 3 AM than fancy tools.<br>
+DevOps Engineer focused on building reliable, automated, and scalable cloud infrastructure.
+
+Hands-on experience designing CI/CD pipelines, provisioning AWS infrastructure using Terraform, 
+containerizing applications with Docker, and deploying microservices on Kubernetes (EKS).
+
+I care more about systems working at 3 AM than fancy tools — reliability beats hype.
+<br>
 
 
 ## 🌐 Socials:
